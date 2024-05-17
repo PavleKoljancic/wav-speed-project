@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "decentralized_buffer.h": "c",
+        "samplebuffer.h": "c",
+        "polynomial.h": "c",
+        "samplewindow.h": "c",
+        "stdio.h": "c",
+        "wavheader.h": "c",
+        "matrix.h": "c",
+        "immintrin.h": "c"
+    }
+}
